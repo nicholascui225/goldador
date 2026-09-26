@@ -8,16 +8,10 @@ description = "CMU Research Project"
 
 [[membership]]
 timeframe = "2026-2027"
-leads = ["jahuang24", "JennyPenguin", "nicholascui225", "bryan628006"]
-
-[[membership.members]]
-github-username = "JennyPenguin"
+leads = ["jahuang24", "nicholascui225"]
 
 [[membership.members]]
 github-username = "jahuang24"
 
 [[membership.members]]
 github-username = "nicholascui225"
-
-[[membership.members]]
-github-username = "bryan628006"
